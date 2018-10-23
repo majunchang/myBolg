@@ -9,8 +9,8 @@ date: 2017-12-17 22:04:13
 - 姓名： 马俊昌
 - 微信： 13012270529 16619713158
 - 邮箱： 13012270529@163.com  junchang.ma@ele.me
-- QQ： 2471978285@qq.com
-- github: https://github.com/majunchang
+- QQ：   &nbsp;2471978285@qq.com
+- github： &nbsp;&nbsp;https://github.com/majunchang
 - 个人简介：一枚小小的前端程序猿，web前端和nodejs的忠实粉丝。
 - 兴趣爱好：电子发烧友，喜欢音乐，看书，打球，吉他。热爱生活享受生活。
-- 工作状态：目前就职于阿里巴巴北京新零售研发中心
+- 工作状态：目前就职于饿了么星选（原百度外卖）
