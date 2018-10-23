@@ -3,6 +3,8 @@ title: 前端构造桌面级应用（QQ音乐）
 date: 2018-08-21 22:40:46
 tags: vue
 categories: vue
+photos: http://oz2tkq0zj.bkt.clouddn.com/17-11-9/52323298.jpg
+comments: true
 ---
 ## 前端构造桌面级音乐播放器（nw与electron）
 

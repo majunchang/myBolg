@@ -7,7 +7,7 @@ title: 马俊昌的个人博客
 subtitle: 念念不忘，必有回想。
 description: 路虽远，不行不至，事虽难，不做不成。
 author: 马俊昌
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: indigo
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -82,6 +82,29 @@ deploy:
   repo: https://majunchang:majunchang521@github.com/majunchang/majunchang.github.io.git
   branch: master
 
-search:
-  path: search.xml
-  field: post
+# Local search
+local_search:
+  enable: true
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-wanko
+  display:
+    position: right
+    width: 150
+    height: 300
+  mobile:
+    show: true
+
+# search:
+#   path: search.xml
+#   field: post
+#   format: html
+#   limit: 10000
+

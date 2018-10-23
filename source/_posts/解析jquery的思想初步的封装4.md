@@ -1,5 +1,5 @@
 ---
-title: 解析jquery的思想初步的封装4
+title: 解析jquery的思想初步的封装final
 date: 2016-11-01 20:24:01
 tags:
 categories: JQuery
