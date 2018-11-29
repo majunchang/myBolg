@@ -1,8 +1,9 @@
 ---
 title: miniredux的实现与源码解析
-date: 2018-07-16 21:07:06
 tags: React
 categories: React
+abbrlink: 3f9bed4b
+date: 2018-07-16 21:07:06
 ---
 > 本文主要介绍redux的react-redux的原理 
 

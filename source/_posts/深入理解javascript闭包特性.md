@@ -1,7 +1,7 @@
 ---
 title: 深入理解javascript闭包特性
-date: 2016-12-06 19:32:38
 categories: javascript
+abbrlink: b4ae21a4
 ---
 
 ## 闭包的原理

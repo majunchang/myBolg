@@ -1,8 +1,9 @@
 ---
 title: 解析jquery的思想初步的封装final
+categories: JQuery
+abbrlink: 938bddae
 date: 2016-11-01 20:24:01
 tags:
-categories: JQuery
 ---
 
 

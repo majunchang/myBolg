@@ -1,8 +1,9 @@
 ---
 title: webpack的环境搭建
-date: 2017-02-04 08:30:05
 tags: webpack
 categories: Nodejs
+abbrlink: 9371c4fc
+date: 2017-02-04 08:30:05
 ---
 
 # webpack2基本介绍

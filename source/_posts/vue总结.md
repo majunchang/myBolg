@@ -1,9 +1,10 @@
 ---
 title: vue总结
-date: 2018-03-04 21:31:58
 tags:
-- vue
+  - vue
 categories: vue
+abbrlink: 219ca079
+date: 2018-03-04 21:31:58
 ---
 ## vue使用总结心得
 

@@ -1,8 +1,11 @@
 ---
 title: 使用ajax发送form表单数据
-date: 2017-04-08 11:41:12
-tags: [ajax,jQuery]
+tags:
+  - ajax
+  - jQuery
 categories: ajax
+abbrlink: ca78ff6a
+date: 2017-04-08 11:41:12
 ---
 
 ### 使用ajax向后台发送json格式的form表单数据 

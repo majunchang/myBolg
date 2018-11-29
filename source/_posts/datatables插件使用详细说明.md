@@ -1,8 +1,9 @@
 ---
 title: datatables插件使用详细说明
+categories: plugin
+abbrlink: b8499350
 date: 2017-04-16 08:40:24
 tags:
-categories: plugin
 ---
 http://blog.csdn.NET/mickey_miki/article/details/8240477
 

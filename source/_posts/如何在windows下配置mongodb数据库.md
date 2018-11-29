@@ -1,8 +1,9 @@
 ---
 title: windows下配置mongodb
-date: 2017-10-10 23:32:47
 categories: javascript
 tags: mongodb
+abbrlink: f4bc246b
+date: 2017-10-10 23:32:47
 ---
 
 ###  如何在windows下配置mongodb数据库

@@ -1,7 +1,8 @@
 ---
 title: 对于jquery思想的理解初步的封装1
-date: 2016-9-20 7:50:11
 categories: JQuery
+abbrlink: e13820e0
+date: 2016-09-20 07:50:11
 ---
 1. 本篇博客主要研究一下几个分类
     -> 选择模块

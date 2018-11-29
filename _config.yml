@@ -14,8 +14,13 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://majunchang.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
+
+# abbrlink config
+# abbrlink:
+#   alg: crc32  # 算法：crc16(default) and crc32
+#   rep: hex    # 进制：dec(default) and hex
 
 # Directory
 source_dir: source
@@ -102,9 +107,35 @@ live2d:
   mobile:
     show: true
 
-# search:
-#   path: search.xml
-#   field: post
-#   format: html
-#   limit: 10000
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
+
+html_minifier:
+  enable: true
+  ignore_error: false
+  exclude:
+
+css_minifier:
+  enable: true
+  exclude:
+    - '*.min.css'
+
+js_minifier:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+image_minifier:
+  enable: true
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false

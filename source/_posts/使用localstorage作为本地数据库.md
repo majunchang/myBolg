@@ -1,5 +1,6 @@
 ---
 title: 使用localstorage作为本地数据库以及跨域問題的解決
+abbrlink: c465abc
 date: 2017-04-16 11:32:59
 tags:
 ---

@@ -1,8 +1,9 @@
 ---
 title: node和mongdb
+categories: Nodejs
+abbrlink: bf92b16f
 date: 2016-11-20 10:33:24
 tags:
-categories: Nodejs
 ---
 ###  1  原生操作数据库 和  使用插件操作数据库  (mongoose)
 

@@ -1,8 +1,9 @@
 ---
 title: vue双向绑定原理
-date: 2018-03-05 21:51:42
 tags: vue
 categories: vue
+abbrlink: 896eda0e
+date: 2018-03-05 21:51:42
 ---
 > 本文采用了比较特殊的input和v-model指令 实际上vue的指令解析模板很复杂，本文重点是理解数据更新的思想
 

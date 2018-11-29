@@ -1,8 +1,9 @@
 ---
 title: javascript-this陷阱详解大全
-date: 2017-06-05 16:55:10
 tags: javascript
 categories: javascript
+abbrlink: 384a3b7a
+date: 2017-06-05 16:55:10
 ---
 　JavaScript来自一门健全的语言，所以你可能觉得JavaScript中的this和其他面向对象的语言如java的this一样，是指存储在实例属性中的值。事实并非如此，在JavaScript中，最好把this当成哈利波特中的博格特的背包，有着深不可测的魔力。
 

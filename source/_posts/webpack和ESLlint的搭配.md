@@ -1,9 +1,10 @@
 ---
 title: webpack和ESLlint的搭配
-date: 2017-02-06 20:59:18
-tags: 
- - webpack和ESlint的搭配
+tags:
+  - webpack和ESlint的搭配
 categories: webpack
+abbrlink: ccab769e
+date: 2017-02-06 20:59:18
 ---
 
 # esLint介绍

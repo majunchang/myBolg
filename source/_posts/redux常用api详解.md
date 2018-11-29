@@ -1,8 +1,9 @@
 ---
 title: react-redux常用api详解
-date: 2018-07-09 23:10:55
 tags: React
 categories: React
+abbrlink: 8843d73f
+date: 2018-07-09 23:10:55
 ---
 ### createStore(reducer, [preloadedState], enhancer)
 

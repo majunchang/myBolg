@@ -1,9 +1,10 @@
 ---
 title: hexo搭建个人博客
-date: 2018-03-04 21:33:40
 tags:
-- hexo 
+  - hexo
 categories: hexo
+abbrlink: 64e2e0e2
+date: 2018-03-04 21:33:40
 ---
 
 ## 个人总结hexo博客搭建流程以及常用命令 

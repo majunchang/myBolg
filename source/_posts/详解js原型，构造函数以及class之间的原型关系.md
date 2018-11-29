@@ -1,5 +1,6 @@
 ---
 title: 详解js原型，构造函数以及class之间的原型关系
+abbrlink: cf19f4c8
 date: 2018-10-11 22:47:27
 tags:
 ---

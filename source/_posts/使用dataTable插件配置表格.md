@@ -1,8 +1,9 @@
 ---
 title: 使用dataTable插件配置表格
+categories: plugin
+abbrlink: 41e2cee3
 date: 2017-04-14 16:47:23
 tags:
-categories: plugin
 ---
 ## 使用jquery的datatable插件 配置分页和查询功能
 ### 安装以及引入

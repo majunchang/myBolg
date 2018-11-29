@@ -1,8 +1,9 @@
 ---
 title: react全家桶 NodeJS MongoDB搭建实时聊天的app
-date: 2018-07-09 22:23:40
 tags: React
 categories: React
+abbrlink: c9581fea
+date: 2018-07-09 22:23:40
 ---
 👉 GitHub: https://github.com/majunchang/reachChatApp
 

@@ -1,8 +1,9 @@
 ---
 title: 深入浅出nodejs01
-date: 2016-9-10 23:16:02
 tags: javascript
 categories: Nodejs
+abbrlink: 3ac9ff69
+date: 2016-09-10 23:16:02
 ---
 # 深入浅出nodejs
 

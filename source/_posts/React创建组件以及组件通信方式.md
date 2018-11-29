@@ -1,5 +1,6 @@
 ---
 title: React创建组件以及组件通信方式
+abbrlink: f1f1cb7d
 date: 2018-10-11 22:42:44
 tags:
 ---

@@ -1,5 +1,6 @@
 ---
 title: gulp工具总结
+abbrlink: 1f492a67
 date: 2017-03-26 09:39:30
 tags:
 ---

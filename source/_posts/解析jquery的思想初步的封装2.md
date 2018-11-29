@@ -1,8 +1,9 @@
 ---
 title: 解析jquery的思想初步的封装2
+categories: JQuery
+abbrlink: 6da35fb4
 date: 2016-09-25 21:24:02
 tags:
-categories: JQuery
 ---
 ## 1. 自己封装一个函数完成数组遍历, 要求模拟数组的 forEach 方法
   

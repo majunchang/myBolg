@@ -1,8 +1,9 @@
 ---
 title: 解析jquery的思想初步的封装3
-date: 2016-10-10 9:10:48
 tags: JQuery
 categories: JQuery
+abbrlink: 1aa46f22
+date: 2016-10-10 09:10:48
 ---
 
 ### 对juqery核心结构的提炼以及封装完毕的map和each方法
